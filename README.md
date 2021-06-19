@@ -1,2 +1,2 @@
-#A demo project
+## A demo project
 This is a description
