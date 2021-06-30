@@ -9,7 +9,8 @@ Some more description !!!!
    1. item1
    2. item2
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/acynonix/git-repo/blob/main/logo.png)
+
 
 
 Main Contributor: https://www.github.com/acynonix
