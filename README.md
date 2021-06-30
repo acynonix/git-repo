@@ -13,7 +13,7 @@ def sayHello():
    return True
 ```
 
-![GitHub Logo](https://github.com/acynonix/git-repo/blob/main/logo.png)
+![GitHub Logo](https://www.cleanpng.com/png-computer-icons-logo-portable-network-graphics-clip-6362014/preview.html)
 
 
 
